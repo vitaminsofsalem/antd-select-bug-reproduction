@@ -1,4 +1,4 @@
-# Ant-Design-Pro bug reporoduction for the select componenet
+# Ant-Design-Pro bug reporoduction for the select component
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
 
